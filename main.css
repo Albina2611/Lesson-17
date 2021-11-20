@@ -11,6 +11,5 @@ span{
     box-shadow: 2px 2px 2px 2px gray;
 }
 .card:hover{
-    width: 315px;
     background-color: rgb(232, 245, 250);
 }
